@@ -1,6 +1,6 @@
 # Car Management System
 
-The **Car Management System** is a Spring Boot application designed to manage a car inventory system. It supports functionalities like viewing available cars, adding, editing, deleting cars, and sorting through various parameters. This guide includes instructions for deploying the backend and frontend on [Railway](https://railway.app/) .
+The **Car Management System** is a Spring Boot application designed to manage a car inventory system. It supports functionalities like viewing available cars, adding, editing, deleting cars, and sorting through various parameters. This guide includes instructions for deploying the backend and frontend on [Railway](https://railway.app/).
 
 ---
 
