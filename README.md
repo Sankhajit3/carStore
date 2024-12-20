@@ -27,6 +27,20 @@ The **Car Management System** is a Spring Boot application designed to manage a 
 
 ---
 
+# API Endpoints
+
+The Car Management System provides the following endpoints to manage cars:
+
+| **Method** | **Endpoint**        | **Description**               |
+|------------|---------------------|-------------------------------|
+| `GET`      | `/available_cars`   | Get all available cars        |
+| `POST`     | `/car_register`     | Add a new car                 |
+| `PUT`      | `/editCar/{id}`     | Update an existing car        |
+| `DELETE`   | `/deleteCar/{id}`   | Delete a car by ID            |
+
+
+---
+
 ## Prerequisites
 
 Before running the application, ensure you have the following installed:
